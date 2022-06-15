@@ -1,4 +1,3 @@
-# PeTut
 # Hi 👋, I'm ThawZinToe (Ptut)
 A android engineer at Codigo.Co.ltd
 
