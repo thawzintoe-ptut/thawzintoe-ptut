@@ -1,13 +1,20 @@
-### Hi there 👋
+# PeTut
+# Hi 👋, I'm ThawZinToe (Ptut)
+A android engineer at Codigo.Co.ltd
 
-<!--
-**thawzintoe-ptut/thawzintoe-ptut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-trophy.vercel.app/?username=thawzintoe-ptut)
 
-Here are some ideas to get you started:
+Find me in social 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<a href="https://www.facebook.com/profile.php?id=100008453710693" target="facebook"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-facebook_-512.png" height="50" /></a>
+
+
+-----
+<img src="https://github-readme-stats.vercel.app/api?username=thawzintoe-ptut&show_icons=true" width="400">
+
+
+- 🔭 I’m currently working on Codigo.Coltd
+- 🌱 I’m currently learning Mobile
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
