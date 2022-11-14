@@ -21,8 +21,8 @@ Find Blogs and Articles in
 
 
 - 🔭 I’m currently working on Codigo.Coltd
-- 🌱 I’m currently learning Mobile( Android,IOS)
-- 💬 Ask me about Android
+- 🌱 I’m currently developing Mobile( Android,IOS)
+- 💬 Passoniate Learner and Active Listener
 - 📫 How to reach me: Facebook, Linkedin and GDG Yangon
-- ⚡ Fun fact: happy and funny xD
+- ⚡ Fun fact: happy and stay strong xD
 -->
