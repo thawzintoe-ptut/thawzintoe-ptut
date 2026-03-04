@@ -1,5 +1,5 @@
 # Hi 👋, I'm ThawZinToe (Ptut)
-Android engineer at SevenPeaks.Co.ltd
+Mid-Senior Android engineer at NimbleHq Company
 
 ![](https://github-profile-trophy.vercel.app/?username=thawzintoe-ptut)
 
@@ -20,7 +20,7 @@ Find Blogs and Articles in
 <img src="https://github-readme-stats.vercel.app/api?username=thawzintoe-ptut&show_icons=true" width="400">
 
 
-- 🔭 I’m currently working on SevenPeaks Software Company
+- 🔭 I’m currently working on NimbleHq Software Company
 - 🌱 I’m currently developing Mobile( Android,IOS)
 - 💬 Passionate Learner and Active Listener
 - 📫 How to reach me: Facebook, Linkedin and GDG Yangon
